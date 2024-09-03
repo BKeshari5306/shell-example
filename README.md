@@ -1,0 +1,2 @@
+# shell-example
+Example project
